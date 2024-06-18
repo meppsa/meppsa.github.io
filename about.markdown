@@ -14,14 +14,17 @@ comments: false
 
 ## Career History
 
--   IT Support Technician @ Hoffman Development Corporation 05/2023 - 06/2024
+-   IT Support Technician @ Hoffman Development Corporation 
+    05/2023 - 06/2024
 
     Supported and managed IT equipment across 31 locations. Experienced in the configuration, deployment, and management of specialized car wash computers to include, servers, cameras, kiosks, and tablets running various operating systems. Good understanding of database management, data analytics, SQL, and reporting. 
 
--   Help Desk Agent II @ Albany Medical Center 01/2023 - 05/2023
+-   Help Desk Agent II @ Albany Medical Center 
+    01/2023 - 05/2023
 
     Provided remote assistance to hospital staff. Triaged issues related to EHR, Telephony and voice, Citrix workspace, health monitoring equipment, and PCs. Administrative tasks included management of AD and Office 365. 
 
--   Information Technician Submarines @ US Navy 08/2020 - 01/2023
+-   Information Technician Submarines @ US Navy 
+    08/2020 - 01/2023
 
     Rated as an Information Systems Technician, duties and responsibilities include LAN Administration, conduct cryptographic radio communications, and equipment maintenance.
