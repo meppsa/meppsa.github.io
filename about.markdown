@@ -1,38 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About Me
+tags: [about, bio, portfolio]
+date: 2024-06-18
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Versatile, Loyal, Dependable</center>
 
-## Features
+## Summary
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+    Versatile IT professional with over three (3) years of extensive experience in information technology and systems management across military, healthcare, and retail sectors. Skilled in LAN administration, cryptographic communications, and equipment maintenance from tenure with the US Navy. Demonstrated ability in providing tier 2 technical support, including remote assistance for EHR systems, telephony, and administrative management of AD and Office 365 at Albany Medical Center. Currently ensuring robust IT support and management for Hoffman Car Wash, overseeing IT infrastructure across 31 locations with proficiency in the deployment and maintenance of specialize computers running car wash software, network devices, and databases.
 
-## Preview
+## Career History
 
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+-   IT Support Technician @ Hoffman Development Corporation 05/2023 - 06/2024
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
+    Supported and managed IT equipment across 31 locations. Experienced in the configuration, deployment, and management of specialized car wash computers to include, servers, cameras, kiosks, and tablets running various operating systems. Good understanding of database management, data analytics, SQL, and reporting. 
 
-## Getting Started
+-   Help Desk Agent II @ Albany Medical Center 01/2023 - 05/2023
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+    Provided remote assistance to hospital staff. Triaged issues related to EHR, Telephony and voice, Citrix workspace, health monitoring equipment, and PCs. Administrative tasks included management of AD and Office 365. 
 
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+-   Information Technician Submarines @ US Navy 08/2020 - 01/2023
+
+    Rated as an Information Systems Technician, duties and responsibilities include LAN Administration, conduct cryptographic radio communications, and equipment maintenance.
