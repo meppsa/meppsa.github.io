@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, bio, portfolio]
+tags: [about, bio, portfolio, description]
 date: 2024-06-18
 comments: false
 ---
