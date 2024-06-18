@@ -10,7 +10,13 @@ comments: false
 
 ## Summary
 
-    Versatile IT professional with over three (3) years of extensive experience in information technology and systems management across military, healthcare, and retail sectors. Skilled in LAN administration, cryptographic communications, and equipment maintenance from tenure with the US Navy. Demonstrated ability in providing tier 2 technical support, including remote assistance for EHR systems, telephony, and administrative management of AD and Office 365 at Albany Medical Center. Currently ensuring robust IT support and management for Hoffman Car Wash, overseeing IT infrastructure across 31 locations with proficiency in the deployment and maintenance of specialize computers running car wash software, network devices, and databases.
+    Versatile IT professional with over three (3) years of extensive experience in information technology and systems management across military, healthcare, and retail sectors. 
+
+    Skilled in LAN administration, cryptographic communications, and equipment maintenance from tenure with the US Navy.
+
+    Demonstrated ability in providing tier 2 technical support, including remote assistance for EHR systems, telephony, and administrative management of AD and Office 365 at Albany Medical Center.
+    
+    Currently ensuring robust IT support and management for Hoffman Car Wash, overseeing IT infrastructure across 31 locations with proficiency in the deployment and maintenance of specialize computers running car wash software, network devices, and databases.
 
 ## Career History
 
