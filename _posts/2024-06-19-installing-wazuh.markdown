@@ -1,6 +1,6 @@
 ---
 project: true
-layout: project
+layout: post
 title:  "Installing Wazuh"
 date:   2024-06-19 11:09:03 +0300
 categories: projects, wazuh, EDR, reporting, analytics
