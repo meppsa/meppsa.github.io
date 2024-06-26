@@ -11,7 +11,7 @@ Today I would like to outline a new project to overhaul my network configuration
 
 ## Objectives
 
-1) Utilize NSA's Network Infrastructure Security Guide to reference against the configurations on my networked devices. The guide can be found here: https://media.defense.gov/2022/Jun/15/2003018261/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDE_20220615.PDF . The Center for Internet Security also maintains benchmarks and guides on different devices and operating systems, they can be found here: https://www.cisecurity.org/cis-benchmarks . 
+1) Utilize NSA's Network Infrastructure Security Guide to reference against the configurations on my networked devices. The guide can be found here: [media.defense.gov](https://media.defense.gov/2022/Jun/15/2003018261/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDE_20220615.PDF). The Center for Internet Security also maintains benchmarks and guides on different devices and operating systems, they can be found here: [cisecurity.org](https://www.cisecurity.org/cis-benchmarks). 
 
 2) Update all networked device's operating systems (if applicable).
 
