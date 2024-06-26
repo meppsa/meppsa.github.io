@@ -1,6 +1,6 @@
 ---
 project: true
-layout: project
+layout: post
 title:  "Network Overhaul Part 1"
 date:   2024-06-26 11:09:03 +0300
 categories: projects, network, configuration, outline
